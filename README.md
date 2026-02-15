@@ -86,5 +86,3 @@ Syntexhub_HandGesture_Full/
 
 ---
 
-## License
-MIT (see `LICENSE`)
